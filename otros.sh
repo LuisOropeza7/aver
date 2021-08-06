@@ -1,3 +1,3 @@
 #!/usr/bin/fish
 
-dnf install neovim nodejs texlive-shceme-full wine lutris steam -y
+dnf install neovim nodejs texlive-scheme-full wine lutris steam -y
